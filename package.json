@@ -21,7 +21,7 @@
     "@types/react-dom": "^16.9.0",
     "apexcharts": "^3.19.3",
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-datalabels": "^0.7.0",
     "graphql": "^15.2.0",
     "graphql-tag": "^2.10.3",
